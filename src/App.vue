@@ -150,7 +150,7 @@
 	"headerTitle": "SSC",
 	"headerSubtitle": "Constellar Midnight",
 	"subheaderTitle": "Urgent Genetic Expansion",
-	"subheaderSubtitle": "Outside the Garden",
+	"subheaderSubtitle": "Black Tails",
 	},
 	"options":{
 	"eventsMarkdownPerMission": true
