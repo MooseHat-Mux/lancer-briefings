@@ -4,8 +4,8 @@
 		"result": "Ongoing",
 		"name": "Aunic Crusade",
 		"description": "The Aun's are pressed to bring Cornucopia into the Aesendency. It's only a matter of time before their next major move.",
-		"color": "#7DBBBB",
-		"value": 2,
+		"color": "#1500ff",
+		"value": 1,
 		"max": 8
 	}
 ]
