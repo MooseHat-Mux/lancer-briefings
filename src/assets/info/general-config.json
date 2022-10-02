@@ -2,27 +2,39 @@
   "initialSlug": "001",
   "planetPath": "/planet.webm",
   "animate": true,
-  "defaultTitle": "MSMC |",
-  "icon": "/faction-logos/msmc.svg",
+  "defaultTitle": "SSC |",
+  "icon": "/faction-logos/ssc.svg",
   "header": {
-    "planet": "Hercynia",
-    "year": "5014u",
-    "system": "Ardennes-3",
-    "gate": "Atlas-Quanokrim",
-    "ring": "Atlas-Line",
-    "headerTitle": "Mirrorsmoke",
-    "headerSubtitle": "Mercenary Company",
-    "subheaderTitle": "Crisis Response",
-    "subheaderSubtitle": "Delta-Echo-Echo-Zulu"
+    "planet": "Cornucopia Orbit",
+    "year": "5016u",
+    "system": "Boundary Garden",
+    "gate": "Rainier",
+    "ring": "Annamite-Line",
+    "headerTitle": "SSC",
+    "headerSubtitle": "Constellar Midnight",
+    "subheaderTitle": "Urgent Genetic Expansion",
+    "subheaderSubtitle": "Outside the Garden"
   },
   "pilotSpecialInfo": {
-    "APOLLO": {
-      "age": "32u",
-      "pob": "Evergreen"
+    "GATE": {
+      "age": "Unknown",
+      "pob": "Unknown"
     },
-    "RAI-DEN": {
-      "age": "48u",
-      "pob": "Gaia"
+    "Silver Fox": {
+      "age": "Unknown",
+      "pob": "Corvidius"
+    },
+    "ATLAS": {
+      "age": "32u",
+      "pob": "Broad Peak"
+    },
+    "TOY": {
+      "age": "33u",
+      "pob": "Broad Peak"
+    },
+    "DRAGO": {
+      "age": "32u",
+      "pob": "Serajevo"
     }
   }
 }
